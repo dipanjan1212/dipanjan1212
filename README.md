@@ -1,25 +1,18 @@
-<p align="center">
+ <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dipanjan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2
   %80%A2%20Cloud%2C%20Kubernetes%2C%20CI%2FCD&descAlignY=60&descSize=16"/>
   </p>
 
-  <p align="center">                                                                                                                                                                                                   <a href="https://github.com/dipanjan1212"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2C5364&center=true&vCenter=true&width=720&lines=
-  Pipelines%2C+clusters%2C+and+the+occasional+2+AM+rollback.;Helm+charts%2C+GitHub+Actions%2C+Kubernetes.;Whatever+the+client+needs%2C+shipped." alt="tagline"/></a>
+  <p align="center">
+    <a href="https://my-portfolio-dipanjan1212.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/dipanjan1129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:dipanjanrick2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/dipanjan1212"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
-
-  Replace it with one of these. Pick whichever you prefer:
-
-  ---
-  Option 1 — Clean centered italic (simplest, instant load, looks real)
 
   <p align="center">
     <em>Pipelines, clusters, and the occasional 2 AM rollback.<br/>
     Helm charts, GitHub Actions, Kubernetes — whatever the client needs, shipped.</em>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/dipanjan1212"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2C5364&center=true&vCenter=true&width=720&lines=
-  Pipelines%2C+clusters%2C+and+the+occasional+2+AM+rollback.;Helm+charts%2C+GitHub+Actions%2C+Kubernetes.;Whatever+the+client+needs%2C+shipped." alt="tagline"/></a>
   </p>
 
   <p align="center">
@@ -52,7 +45,11 @@
 
   A live site with my projects, work history, and case studies.
 
-  **[my-portfolio-dipanjan1212.vercel.app](https://my-portfolio-dipanjan1212.vercel.app/)**
+  <p align="center">
+    <a href="https://my-portfolio-dipanjan1212.vercel.app/">
+      <img src="https://api.microlink.io/?url=https%3A%2F%2Fmy-portfolio-dipanjan1212.vercel.app&screenshot=true&meta=false&embed=screenshot.url&waitFor=2000" alt="Portfolio preview" width="720"/>
+    </a>
+  </p>
 
   <p align="center">
     <a href="https://my-portfolio-dipanjan1212.vercel.app/">
