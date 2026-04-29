@@ -1,48 +1,48 @@
-  <p align="center">───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dipanjan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2  %80%A2%20Cloud%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Platform%20Engineering&descAlignY=60&descSize=16"/>
+ ---                                                                                                                                                                                                                <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dipanjan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2  %80%A2%20Cloud%2C%20Kubernetes%2C%20CI%2FCD&descAlignY=60&descSize=16"/>
   </p>
 
   <p align="center">
     <a href="https://github.com/dipanjan1212"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2C5364&center=true&vCenter=true&width=720&lines=
-  Boring+infrastructure+is+the+goal.;Quiet+pagers%2C+fast+deploys%2C+no+surprises." /></a>
+  Pipelines%2C+clusters%2C+and+the+occasional+2+AM+rollback.;Helm+charts%2C+GitHub+Actions%2C+Kubernetes.;Whatever+the+client+needs%2C+shipped." /></a>
   </p>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dipanjan1212&label=Profile%20views&color=0e75b6&style=flat"/>
     <img src="https://img.shields.io/github/followers/dipanjan1212?label=Followers&style=flat&color=0e75b6"/>
-    <img src="https://img.shields.io/github/stars/dipanjan1212?label=Stars&style=flat&color=0e75b6"/>
   </p>
 
   ---
 
-  ### What I do
+  ### About
 
-  I build and run the platforms engineering teams deploy onto. My job is to make the path from `git push` to production boring, fast, and observable — and to keep it that way at 3 AM when something breaks.
+  DevOps engineer with 2.5 years of hands-on experience building and maintaining infrastructure for client projects. Most of my time goes into CI/CD pipelines, Kubernetes deployments via Helm, and the
+  unglamorous work that keeps releases predictable across dev, UAT, and prod.
 
-  - **Cluster operator.** Multi-environment Kubernetes (EKS / on-prem) for 20+ services. App-of-apps GitOps with ArgoCD. Every service self-onboards via PR — no human in the deploy path.
-  - **Pipeline author.** Reusable GitHub Actions workflows: build → SBOM → Trivy scan → Cosign sign → push → Argo sync. One workflow, every repo, same guarantees.
-  - **IaC discipline.** Terraform-only for cloud accounts. Modules versioned, state in S3 with DynamoDB locking, drift detected nightly. No clicks in the AWS console.
-  - **Observability before features.** Prometheus + Loki + Tempo + Grafana on every cluster. SLOs defined in code. Alerts that page only when humans need to act.
-  - **Incident-driven.** Every Sev-2+ produces a postmortem and at least one action item that becomes infra-as-code.
+  I tend to pick up whatever stack a client is on — AWS one quarter, Azure the next — and the goal is the same either way: make deploys repeatable, keep environments aligned, and leave runbooks better than I
+  found them.
 
-  ### Currently working on
+  ### What I work on day to day
 
-  - Migrating legacy Jenkins pipelines to reusable GitHub Actions workflows
-  - Rolling out OpenTelemetry tracing across services to replace patchwork vendor agents
-  - Hardening container supply chain — provenance, signed images, Kyverno admission policy
+  - **CI/CD pipelines** — GitHub Actions and Azure DevOps. Building, tagging, scanning, and promoting images across environments. Tag-based promotion (e.g. `YY.M.N.P` patches that skip dev) is a pattern I've
+  shipped in production.
+  - **Kubernetes + Helm** — Authoring and maintaining charts for application services. Per-environment value overlays, chart versioning, release rollouts.
+  - **Container builds** — Multi-arch images, build optimization, fixing the OOMs that show up when frontend bundles meet small CI runners.
+  - **Multi-environment deployments** — Keeping dev, UAT, and prod in sync without copy-paste drift. Promotion logic in pipelines, not in people's heads.
+  - **Debugging the weird stuff** — Pipeline flakiness, image registry issues, certificate renewal, ingress quirks. The on-call surface area.
 
-  ### Tools I reach for
+  ### Tech I work with
 
-  **Cloud** — AWS (primary), GCP, Azure
-  **Orchestration** — Kubernetes, Helm, ArgoCD, Kustomize
-  **IaC** — Terraform, Terragrunt, Ansible
-  **CI/CD** — GitHub Actions, GitLab CI, Jenkins
-  **Observability** — Prometheus, Grafana, Loki, Tempo, OpenTelemetry
-  **Security** — Trivy, Cosign, Kyverno, OPA, Vault
-  **Languages** — Bash, Python, Go
+  **Cloud** — AWS, Azure, GCP (depending on the project)
+  **Containers & Orchestration** — Kubernetes, Helm, Docker
+  **CI/CD** — GitHub Actions, Azure DevOps, Jenkins
+  **IaC** — Terraform, Ansible
+  **Observability** — Prometheus, Grafana, Loki
+  **Scripting** — Bash, Python, YAML
+  **OS** — Linux (Ubuntu, Alpine, RHEL flavors)
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,helm,githubactions,jenkins,ansible,prometheus,grafana,linux,bash,python,go,nginx,redis,postgres&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,helm,githubactions,jenkins,terraform,ansible,prometheus,grafana,linux,bash,python,git,nginx,redis&perline=9"/>
   </p>
 
   ---
@@ -56,35 +56,23 @@
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=dipanjan1212&theme=tokyonight&hide_border=true"/>
   </p>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=dipanjan1212&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
-  </p>
 
   ---
 
-  ### Snake
+  ### How I work
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/dipanjan1212/dipanjan1212/output/github-contribution-grid-snake-dark.svg"/>
-  </p>
-
-  ---
-
-  ### How I think about infra
-
-  1. If it isn't in Git, it doesn't exist. No console clicks, no kubectl edits, no manual secrets.
-  2. Self-service or it doesn't scale. A platform team that becomes a ticket queue has already failed.
-  3. Every alert is either fixable, tunable, or deletable. Alert fatigue is a bug.
-  4. Boring tech where possible. New tools cost more than they save until proven otherwise.
-  5. Postmortems are pull requests. Action items become code, not Confluence pages.
+  - Fix the root cause once, not the symptom three times.
+  - Pipelines should be readable. If a teammate can't trace what runs and why in five minutes, the pipeline is broken even when it's green.
+  - Production parity matters. Dev that doesn't look like prod is a debugger that lies to you.
+  - Boring beats clever. The fanciest tool I picked usually wasn't the one that survived the year.
 
   ---
 
   ### Reach me
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/dipanjan1129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:dipanjanrick2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
   <p align="center">
