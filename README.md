@@ -1,5 +1,6 @@
- ---                                                                                                                                                                                                                <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dipanjan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2  %80%A2%20Cloud%2C%20Kubernetes%2C%20CI%2FCD&descAlignY=60&descSize=16"/>
+ <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dipanjan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%E2
+  %80%A2%20Cloud%2C%20Kubernetes%2C%20CI%2FCD&descAlignY=60&descSize=16"/>
   </p>
 
   <p align="center">
@@ -43,18 +44,6 @@
 
   <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,helm,githubactions,jenkins,terraform,ansible,prometheus,grafana,linux,bash,python,git,nginx,redis&perline=9"/>
-  </p>
-
-  ---
-
-  ### Stats
-
-  <p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=dipanjan1212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanjan1212&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=dipanjan1212&theme=tokyonight&hide_border=true"/>
   </p>
 
   ---
